@@ -44,3 +44,11 @@ You can customize the following parameters in the code:
 ## Troubleshooting
 - If you encounter issues with character rendering or colors, ensure your terminal supports ANSI escape codes.
 - Ensure that your console window is large enough to display the entire donut (80 characters wide and at least 22 lines tall).
+
+
+
+
+https://github.com/user-attachments/assets/490c3d7d-8a76-4ef0-b2f3-d6a979c9c34c
+
+
+
